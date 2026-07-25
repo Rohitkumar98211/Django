@@ -1,4 +1,4 @@
-Git & Git HUb
+<!-- Git & Git HUb
 github is the website to use git
 Version Control System
 1)track Changes
@@ -30,7 +30,7 @@ git restore --staged file_name(for unstaged)
 
 2)commit
 git commit -m"commment done
-3) push command
+<!-- 3) push command -->
 git push origin main
 
 status:
@@ -60,4 +60,4 @@ git branch
 git branch -M rename
 git checkout name
 git checkout -b newbranch
-git branch -d something
+git branch -d something -->
